@@ -1,2 +1,2 @@
-# 0805-
-学习
+print('hello world')
+print('hello git')
